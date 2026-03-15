@@ -49,6 +49,8 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
+
+- [RustChain](https://rustchain.org) - Rust-based blockchain with Proof-of-Authority consensus and hardware fingerprint attestation. Features include decentralized AI model hosting (BoTTube), bounty system for ecosystem growth, and cross-chain bridge to Solana. Designed for autonomous agents and AI-powered applications.
 - [Decentralized & Collaborative AI on Blockchain](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
 
 ## Blockchains for data
